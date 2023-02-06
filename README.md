@@ -1,16 +1,26 @@
-# ecommarce
+# Ecommarce App
+This app has been created using Flutter
 
-A new Flutter project.
+# Contents
+* Product sync
+* Add to cart option
+* Product Details view
+* Drawer
+* Responsive UI
+* GetX state management
 
-## Getting Started
+# Dependencies
+* cupertino_icons: ^1.0.5
+* get: 4.6.5
+* google_fonts: ^4.0.1
+* dio: ^4.0.6
+* flutter_svg: ^1.1.6
+* cached_network_image: ^3.2.3
+* flutter_rating_bar: ^4.0.1
 
-This project is a starting point for a Flutter application.
+# APK
+* [Download](https://drive.google.com/file/d/1yzR4Sf9MqncogsLPraSkiK-UAecNZMTh/view?usp=sharing)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Screenshots
+<img src="screenshots/Screenshot_1.jpg" width="300" height="666">  <img src="screenshots/Screenshot_2.jpg" width="300" height="666">
+<img src="screenshots/Screenshot_3.jpg" width="300" height="666">
