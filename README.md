@@ -22,5 +22,5 @@ This app has been created using Flutter
 * [Download](https://drive.google.com/file/d/1yzR4Sf9MqncogsLPraSkiK-UAecNZMTh/view?usp=sharing)
 
 # Screenshots
-<img src="screenshots/Screenshot_1.jpg" width="300" height="666">  <img src="screenshots/Screenshot_2.jpg" width="300" height="666">
-<img src="screenshots/Screenshot_3.jpg" width="300" height="666">
+<img src="screenshots/screenshot_1.jpeg" width="300" height="666">  <img src="screenshots/screenshot_3.jpeg" width="300" height="666">
+<img src="screenshots/screenshot_2.jpeg" width="300" height="666">
